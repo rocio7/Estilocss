@@ -1,0 +1,31 @@
+h1 {
+    padding: 5px 15px;
+    color: aqua;
+    background-color: black;
+    text-align: left;
+    font-weight: bold;
+    font-family: cursive;
+    font-size: 40px;
+
+}
+h2 {
+    color: white;
+    background-color: #663399;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: normal;
+    font-style: italic;
+    padding: 5px;
+
+}
+h3 {
+    color: #312a64;
+    background-color: #9fc5f8;
+    text-align: right;
+    font-family: cursive;
+    text-decoration: underline;
+    padding: 6px 15px
+    
+
+}
+
